@@ -1,0 +1,6 @@
+*.out
+cscope.*
+tags
+*.bin
+*.a
+*.so
